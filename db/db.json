@@ -6,14 +6,19 @@
       "id": "0"
     },
     {
-      "title": "new note for me",
-      "text": "This is text",
-      "id": "4"
+      "title": "Note 1",
+      "text": "kdsfjlakfdj",
+      "id": "1"
     },
     {
-      "title": "Note 1",
-      "text": "ksladfj",
+      "title": "Note 2",
+      "text": "asdfas",
       "id": "2"
+    },
+    {
+      "title": "Note 3",
+      "text": "lksadf",
+      "id": "3"
     }
   ]
 }
