@@ -11,13 +11,13 @@
       "id": "1"
     },
     {
-      "title": "Note 2",
-      "text": "asdfas",
-      "id": "2"
-    },
-    {
       "title": "Note 3",
       "text": "lksadf",
+      "id": "3"
+    },
+    {
+      "title": "New Note 4",
+      "text": "Hello, my name is Haley : )",
       "id": "3"
     }
   ]
