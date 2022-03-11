@@ -9,10 +9,10 @@
 
 ## Screenshots
 ### Landing Page
-![Landing Page screenshot](images/screenshot_1.png)
+![Landing Page screenshot](public/assets/images/screenshot_1.png)
 
 ### Notes Page
-![Notes Page screenshot](images/screenshot_2.png)
+![Notes Page screenshot](public/assets/images/screenshot_2.png)
 
 ## Link to Application
 - https://secret-bayou-37490.herokuapp.com/
