@@ -1,9 +1,19 @@
 {
   "notes": [
     {
-      "title": "new note",
-      "text": "hi",
+      "title": "new note for me",
+      "text": "This is text",
       "id": "0"
+    },
+    {
+      "title": "new note for me",
+      "text": "This is text",
+      "id": "4"
+    },
+    {
+      "title": "Note 1",
+      "text": "ksladfj",
+      "id": "2"
     }
   ]
 }

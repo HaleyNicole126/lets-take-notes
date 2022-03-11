@@ -28,7 +28,7 @@ router.get('/notes/:id', (req, res) => {
 
 // this creates a route to handle delete requests 
 router.delete('/notes/:id', (req, res) => {
-    const noteIndex = findById(req.params.id, notes)
+    const noteIndex = req.params.id;
 
     if (noteIndex === -1) return res.status(404).json({})
 
